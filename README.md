@@ -6,3 +6,5 @@ The tag is used to insert or update contacts in ActiveCampaign. To automatically
 The tag also allows for custom field settings. To set a field, enter the custom field code as indicated in ActiveCampaign (e.g. %CUSTOM_FIELD%).
 
 If the email passed to the tag already exists in ActiveCampaign, the contact will be updated. Otherwise, a new contact will be added.
+
+<b>The phone number must be formatted according to the E.164 standard</b>
